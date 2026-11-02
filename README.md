@@ -14,7 +14,7 @@ A small bash wrapper that sends your git changes (plus your repo's `CLAUDE.md`) 
 ## Install
 
 ```bash
-git clone <this-repo-url> ~/.claude-diff-review
+git clone https://github.com/lawal-olaotan-zonda/claude-reusable-pr-reviewer
 ~/.claude-diff-review/install.sh
 ```
 
